@@ -1,7 +1,7 @@
 # Pipeline-Based Neural Network Intrusion Detection System (IDS) for IoT Networks
 
 ## Project Information
-**Course:** Data Security / Network Security  
+**Course:** Data Security and Analytics 
 **Project Type:** Course Project  
 
 **Developed by:**  
