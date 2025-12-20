@@ -78,8 +78,6 @@ evaluate
 ↓
 save_artifacts
 
-yaml
-Copy code
 
 This design:
 - Prevents invalid execution order
@@ -90,26 +88,7 @@ This design:
 
 ## Project Structure
 
-DataSecurityProject/
-│
-├── main.py
-├── pipeline/
-│ ├── config.py
-│ ├── context.py
-│ ├── runner.py
-│ └── stages/
-│ ├── load_data.py
-│ ├── explore_data.py
-│ ├── build_dataset.py
-│ ├── preprocess.py
-│ ├── train.py
-│ ├── evaluate.py
-│ └── save_artifacts.py
-│
-└── artifacts/
-
-yaml
-Copy code
+<img width="332" height="431" alt="image" src="https://github.com/user-attachments/assets/afd9acce-7c22-4635-9412-b4c5ed24cf65" />
 
 ---
 
