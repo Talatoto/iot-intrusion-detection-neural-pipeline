@@ -5,8 +5,8 @@
 **Project Type:** Course Project  
 
 **Developed by:**  
-- Student 1: Tala  
-- Student 2: (Second Student Name)  
+- Student 1: Tala Raed 
+- Student 2: Yazeed Suleiman
 
 ---
 
