@@ -269,6 +269,8 @@ After execution, the following files are generated in the `artifacts/` directory
 ```bash
 pip install pandas numpy scikit-learn tensorflow
 python main.py
+
+
 Conclusion
 This project demonstrates a modular, scalable, and security-aware Intrusion Detection System for IoT networks.
 By combining a neural network with a dependency-driven pipeline architecture, the system effectively detects malicious IoT traffic while maintaining clean design and reproducibility.
@@ -281,21 +283,3 @@ Real-time streaming detection
 Lightweight deployment for edge IoT devices
 
 Feature selection and optimization
-
-markdown
-Copy code
-
----
-
-## ✅ This README now:
-- Clearly explains **what the project is about**
-- Clearly states **what it detects**
-- Explains **how it works technically**
-- Matches your actual code structure
-- Is ideal for **grading and GitHub**
-
-If you want, I can now:
-- Make a **shorter README** version
-- Add **citations/references**
-- Create a **diagram image** for the pipeline
-- Tailor it exactly to your grading rubric
