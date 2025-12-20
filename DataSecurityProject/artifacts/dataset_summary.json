@@ -1,0 +1,72 @@
+{
+  "shape": [
+    7062606,
+    27
+  ],
+  "columns": [
+    "MI_dir_L0.1_weight",
+    "MI_dir_L0.1_mean",
+    "MI_dir_L0.1_variance",
+    "H_L0.1_weight",
+    "H_L0.1_mean",
+    "H_L0.1_variance",
+    "HH_L0.1_weight",
+    "HH_L0.1_mean",
+    "HH_L0.1_std",
+    "HH_L0.1_magnitude",
+    "HH_L0.1_radius",
+    "HH_L0.1_covariance",
+    "HH_L0.1_pcc",
+    "HH_jit_L0.1_weight",
+    "HH_jit_L0.1_mean",
+    "HH_jit_L0.1_variance",
+    "HpHp_L0.1_weight",
+    "HpHp_L0.1_mean",
+    "HpHp_L0.1_std",
+    "HpHp_L0.1_magnitude",
+    "HpHp_L0.1_radius",
+    "HpHp_L0.1_covariance",
+    "HpHp_L0.1_pcc",
+    "Device_Name",
+    "Attack",
+    "Attack_subType",
+    "label"
+  ],
+  "missing_top15": {
+    "MI_dir_L0.1_weight": 0,
+    "MI_dir_L0.1_mean": 0,
+    "MI_dir_L0.1_variance": 0,
+    "H_L0.1_weight": 0,
+    "H_L0.1_mean": 0,
+    "H_L0.1_variance": 0,
+    "HH_L0.1_weight": 0,
+    "HH_L0.1_mean": 0,
+    "HH_L0.1_std": 0,
+    "HH_L0.1_magnitude": 0,
+    "HH_L0.1_radius": 0,
+    "HH_L0.1_covariance": 0,
+    "HH_L0.1_pcc": 0,
+    "HH_jit_L0.1_weight": 0,
+    "HH_jit_L0.1_mean": 0
+  },
+  "attack_distribution": {
+    "mirai": 3668402,
+    "gafgyt": 2838272,
+    "Normal": 555932
+  },
+  "attack_subtype_top10": {
+    "udp": 2176365,
+    "tcp": 859850,
+    "scan": 793090,
+    "syn": 733299,
+    "ack": 643821,
+    "Normal": 555932,
+    "udpplain": 523304,
+    "combo": 515156,
+    "junk": 261789
+  },
+  "label_distribution": {
+    "0": 6506674,
+    "1": 555932
+  }
+}
