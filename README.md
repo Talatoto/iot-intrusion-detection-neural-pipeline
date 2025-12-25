@@ -11,7 +11,7 @@
 ---
 
 ## Project Presentation
-A detailed visual explanation of the system design, dataset, pipeline architecture, and evaluation results is available at:
+A detailed visual explanation of the system is available at:
 
 👉 https://prezi.com/view/2WDORkAi3uZDGXWDRdRE/?referral_token=UIuwjrlnB3FN
 
